@@ -631,6 +631,7 @@ Signed,
 1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
 1. Matthew Vernon (Debian developer)
 1. Matthew Venn
+1. Matthew Westcott (`gasman`, Wagtail CMS maintainer)
 1. Matthew Wilcox (Linux kernel hacker)
 1. Matthias Antierens
 1. Matthias Arnason
@@ -848,7 +849,6 @@ Signed,
 1. Savin Goyal
 1. Sayan Chowdhury (@yudocaa)
 1. Scott Hain
-1. Scott Martin
 1. Scott Starr
 1. Scott Walters
 1. Sean McGinnis
@@ -980,4 +980,3 @@ Signed,
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. Alexander Jacocks (Red Hat)
